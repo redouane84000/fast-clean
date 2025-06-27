@@ -9,7 +9,7 @@ const MentionLegale = () => (
         <li><strong>Adresse :</strong> 43 impasse des alouettes, 84130 Le Pontet</li>
         <li><strong>SIREN :</strong> 941 130 072</li>
         <li><strong>Email :</strong> fastand-clean@hotmail.com</li>
-        <li><strong>Téléphone :</strong> 0782197182</li>
+        <li><strong>Téléphone :</strong> 0752887535</li>
       </ul>
       <p className="text-xs text-gray-400 mt-6">Ce site est la propriété de FAST & CLEAN. Toute reproduction, même partielle, est interdite sans autorisation.</p>
     </div>

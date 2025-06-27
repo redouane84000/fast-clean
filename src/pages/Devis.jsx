@@ -7,11 +7,11 @@ const Devis = () => {
   const [surface, setSurface] = useState('');
 
   const services = [
-    { id: 'terrasse', name: 'Terrasse', price: 10 },
+    { id: 'terrasse', name: 'Terrasse', price: 8 },
     { id: 'facade', name: 'Façade', price: 13 },
-    { id: 'toiture', name: 'Toiture', price: 20 },
+    { id: 'toiture', name: 'Toiture', price: 18 },
     { id: 'hydrofuge', name: 'Traitement Hydrofuge', price: 10 },
-    { id: 'demoussage', name: 'Démoussage Toiture', price: 25 },
+    { id: 'demoussage', name: 'Démoussage Toiture', price: 15 },
     { id: 'chantier', name: 'Nettoyage Chantier', price: 5 }
   ];
 

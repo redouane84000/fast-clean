@@ -125,7 +125,7 @@ const Facade = () => {
               <div className="space-y-4">
                 <div className="flex items-center text-gray-600">
                   <Phone className="w-5 h-5 mr-3 text-secondary" />
-                  <span className="font-semibold">0782197182</span>
+                  <span className="font-semibold">0752887535</span>
                 </div>
                 
                 <div className="flex items-center text-gray-600">

@@ -87,7 +87,7 @@ const Toiture = () => {
               
               <div className="space-y-6">
                 <div className="text-center">
-                  <div className="text-4xl font-bold mb-2">20€/m²</div>
+                  <div className="text-4xl font-bold mb-2">18€/m²</div>
                   <div className="text-lg opacity-90">
                     Tarif TTC
                   </div>
@@ -125,7 +125,7 @@ const Toiture = () => {
               <div className="space-y-4">
                 <div className="flex items-center text-gray-600">
                   <Phone className="w-5 h-5 mr-3 text-secondary" />
-                  <span className="font-semibold">0782197182</span>
+                  <span className="font-semibold">0752887535</span>
                 </div>
                 
                 <div className="flex items-center text-gray-600">

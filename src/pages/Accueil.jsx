@@ -28,7 +28,7 @@ const Accueil = () => {
       icon: <Home className="w-8 h-8" />,
       title: "Terrasse",
       description: "Nettoyage haute pression de terrasses en pierre, béton ou bois",
-      price: "10€/m²",
+      price: "8€/m²",
       link: "/prestation/terrasse"
     },
     {
@@ -42,7 +42,7 @@ const Accueil = () => {
       icon: <Layers className="w-8 h-8" />,
       title: "Toiture",
       description: "Nettoyage complet de toitures et chéneaux",
-      price: "20€/m²",
+      price: "18€/m²",
       link: "/prestation/toiture"
     },
     {
@@ -56,7 +56,7 @@ const Accueil = () => {
       icon: <Leaf className="w-8 h-8" />,
       title: "Démoussage Toiture",
       description: "Élimination complète de la mousse et des algues",
-      price: "25€/m²",
+      price: "15€/m²",
       link: "/prestation/demoussage"
     },
     {
@@ -218,7 +218,7 @@ const Accueil = () => {
               </Link>
               <div className="flex items-center justify-center space-x-4 hover-pulse">
                 <Phone className="w-5 h-5" />
-                <span className="font-semibold">0782197182</span>
+                <span className="font-semibold">0752887535</span>
               </div>
             </div>
           </div>

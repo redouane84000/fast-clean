@@ -185,7 +185,7 @@ const Formulaire = () => {
                 <div className="space-y-4">
                   <div className="flex items-center text-gray-600">
                     <span className="w-5 h-5 mr-3">📞</span>
-                    <span>0782197182</span>
+                    <span>0752887535</span>
                   </div>
                   
                   <div className="flex items-center text-gray-600">
@@ -238,7 +238,7 @@ const Formulaire = () => {
                 Pour une intervention urgente, appelez-nous directement :
               </p>
               <div className="text-2xl font-bold">
-                0782197182
+                0752887535
               </div>
             </div>
           </div>
