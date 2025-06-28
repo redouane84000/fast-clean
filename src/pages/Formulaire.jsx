@@ -21,9 +21,22 @@ const Formulaire = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Simulation d'envoi
     setIsSubmitted(true);
     // Ici vous pourriez ajouter l'envoi réel du formulaire
+    fetch('https://fast-clean-back-production.up.railway.app/formulaire', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(formData)
+    })
+    .then(response => response.json())
+    .then(data => {
+      console.log(data);
+    })
+    .catch(error => {
+      console.error('Erreur:', error);
+    });
   };
 
   if (isSubmitted) {
